@@ -111,6 +111,10 @@ h3{
     
    
 }
+a{
+    color: white;
+    text-decoration: none;
+}
 #entrar:hover{
     background-color: #76090f;
 }
